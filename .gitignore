@@ -1,0 +1,4 @@
+# Arquivos a serem ignorados pelo Git
+__pycache__/
+.cache.sqlite
+jupyter_teste.ipynb
